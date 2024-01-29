@@ -1,1 +1,1 @@
-In this folder, you can find codes for analysis conducted in scUPS artice.
+In this folder, you can find codes for analyses conducted in scUPS artice.
